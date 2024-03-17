@@ -14,7 +14,8 @@ Welcome to the repository containing the projects completed during my Data Scien
 - **File Name:** Task 2 - Car Price Prediction With Machine Learning
 - **Description:** This project involved predicting the prices of cars using machine learning algorithms.
 - **Technologies:** Python, Pandas, NumPy, Scikit-learn
-- **Screenshot:** [![Car Price Prediction Screenshot](/Task%202%20Car%20Price%20Prediction%20With%20Machine%20Learning/Car_ScreenShot.PNG)](https://raw.githubusercontent.com/Sonkhe-Shongwe/OIBSIP/main/Task%202%20Car%20Price%20Prediction%20With%20Machine%20Learning/Car_ScreenShot.PNG)
+- **Screenshot:**
+[![Car Price Prediction Screenshot](/Task%202%20Car%20Price%20Prediction%20With%20Machine%20Learning/Car_ScreenShot.PNG)](https://raw.githubusercontent.com/Sonkhe-Shongwe/OIBSIP/main/Task%202%20Car%20Price%20Prediction%20With%20Machine%20Learning/Car_ScreenShot.PNG)
 
 
 ## Task 3 - Unemployment Analysis With Python
