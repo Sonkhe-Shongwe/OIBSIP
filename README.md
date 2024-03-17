@@ -4,9 +4,9 @@ Welcome to the repository containing the projects completed during my Data Scien
 
 ## Table of Contents
 
-1. [Task 2 - Car Price Prediction With Machine Learning](#Task-2-car-price-prediction-with-machine-learning)
-2. [Task 3 - Unemployment Analysis With Python](#task-3-unemployment-analysis-with-python)
-3. [Task 4 - Email Spam Detection With Machine Learning](#task-4-email-spam-detection-with-machine-learning)
+1. [Task 2 - Car Price Prediction With Machine Learning](#Task-2-Car-Price-Prediction-With-Machine-Learning)
+2. [Task 3 - Unemployment Analysis With Python](#Task-3-Unemployment-Analysis-With-Python)
+3. [Task 4 - Email Spam Detection With Machine Learning](#Task-4-Email-Spam-Detection-With-Machine-Learning)
 
 ## Task 2 - Car Price Prediction With Machine Learning
 
