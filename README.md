@@ -23,7 +23,8 @@ Welcome to the repository containing the projects completed during my Data Scien
 - **File Name:** Task 3 - Unemployment Analysis With Python
 - **Description:** In this project, we analyzed unemployment data using Python.
 - **Technologies:** Python, Pandas, Matplotlib, Seaborn
-- **Screenshot:** [![Unemployment Analysis Screenshot](/screenshots/Unemployment_ScreenShot.png)](https://github.com/Sonkhe-Shongwe/OIBSIP/blob/main/Task%203%20Unemployement%20Analysis%20With%20Python/Unemployemnt_ScreenShot.png)
+- **Screenshot:**
+[![Unemployment Analysis Screenshot](/Task%203%20Unemployement%20Analysis%20With%20Python/Unemployment_ScreenShot.png)](https://github.com/Sonkhe-Shongwe/OIBSIP/blob/main/Task%203%20Unemployement%20Analysis%20With%20Python/Unemployment_ScreenShot.png)
 
 
 ## Task 4 - Email Spam Detection With Machine Learning
