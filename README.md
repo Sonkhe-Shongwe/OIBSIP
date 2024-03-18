@@ -32,4 +32,5 @@ Welcome to the repository containing the projects completed during my Data Scien
 - **File Name:** Task 4 - Email Spam Detection With Machine Learning
 - **Description:** This project focused on classifying emails as spam or not spam using machine learning algorithms.
 - **Technologies:** Python, Pandas, NLTK, Scikit-learn
-- **Screenshot:** [![Email Spam Detection Screenshot](/screenshots/email_spam_detection.png)](path_to_screenshot)
+- - **Screenshot:** [![Email Spam Detection Screenshot](/screenshots/Spam_ScreenShot.PNG)](https://raw.githubusercontent.com/Sonkhe-Shongwe/OIBSIP/main/Task%204%20Email%20Spam%20Detection%20With%20Machine%20Learning/Spam_ScreenShot.PNG)
+
