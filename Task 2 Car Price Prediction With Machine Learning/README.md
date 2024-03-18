@@ -4,6 +4,9 @@
 
 This project utilizes machine learning techniques to predict the selling prices of cars based on various attributes. By analyzing car features and developing predictive models, valuable insights are generated for buyers and sellers in the automotive market.
 
+[![Car Price Prediction Screenshot](/Task%202%20Car%20Price%20Prediction%20With%20Machine%20Learning/Car_ScreenShot.PNG)](https://raw.githubusercontent.com/Sonkhe-Shongwe/OIBSIP/main/Task%202%20Car%20Price%20Prediction%20With%20Machine%20Learning/Car_ScreenShot.PNG)
+
+
 ## Key Features
 
 - Exploratory analysis of car attributes.
