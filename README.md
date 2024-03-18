@@ -4,9 +4,9 @@ Welcome to the repository containing the projects completed during my Data Scien
 
 ## Table of Contents
 
-1. [Task 2 - Car Price Prediction With Machine Learning](https://github.com/Sonkhe-Shongwe/OIBSIP/tree/main/Task%202%20Car%20Price%20Prediction%20With%20Machine%20Learning)
-2. [Task 3 - Unemployment Analysis With Python](https://github.com/Sonkhe-Shongwe/OIBSIP/tree/main/Task%203%20Unemployment%20Analysis%20With%20Python)
-3. [Task 4 - Email Spam Detection With Machine Learning](https://github.com/Sonkhe-Shongwe/OIBSIP/tree/main/Task%204%20%20Email%20Spam%20Detection%20With%20Machine%20Learning)
+1. Task 2 - [Car Price Prediction With Machine Learning](https://github.com/Sonkhe-Shongwe/OIBSIP/tree/main/Task%202%20Car%20Price%20Prediction%20With%20Machine%20Learning)
+2. Task 3 - [Unemployment Analysis With Python](https://github.com/Sonkhe-Shongwe/OIBSIP/tree/main/Task%203%20Unemployment%20Analysis%20With%20Python)
+3. Task 4 - [Email Spam Detection With Machine Learning](https://github.com/Sonkhe-Shongwe/OIBSIP/tree/main/Task%204%20%20Email%20Spam%20Detection%20With%20Machine%20Learning)
 
 
 ## Task 2 - Car Price Prediction With Machine Learning
