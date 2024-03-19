@@ -14,7 +14,7 @@ This project utilizes machine learning techniques to predict the selling prices 
 - Evaluation of model performance and selection of the best-performing model.
 - Visualization of insights through intuitive charts and graphs.
 
-## Model
+## Regression Models
 
 The following regression models were used for predicting car prices:
 
