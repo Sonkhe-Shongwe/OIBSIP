@@ -3,6 +3,7 @@
 ## Overview
 
 The project aims to analyze employment trends in India during the COVID-19 pandemic, focusing on how different regions and sectors have been affected. By examining employment rates across urban and rural areas and comparing data from pre-pandemic and pandemic periods, the study provides insights into the nuanced effects of the pandemic on the Indian labor market.
+
 ![Unemployment Analysis Screenshot](/Task%203%20Unemployment%20Analysis%20With%20Python/Unemployment_ScreenShot.png)
 
 ## Objectives
