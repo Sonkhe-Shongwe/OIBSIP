@@ -27,21 +27,36 @@ The project begins with loading and preprocessing the employment data, ensuring 
 - **H0:** There is no significant difference in the average employment rates between rural and urban areas.
 - **H1:** There is a significant difference in the average employment rates between rural and urban areas.
 
-Results: The t-test revealed a highly statistically significant difference in employment rates between rural and urban areas (T-statistic: 10.45, P-value: $$6.46 \times 10^{-24}$$).
+Results: 
+
+| Statistic    | Value                              |
+|--------------|------------------------------------|
+| T-statistic  | 10.45                              |
+| P-value      | $$6.46 \times 10^{-24}$$           |
 
 #### Hypothesis 2: Labor Participation Rate and Employment Rate Correlation
 
 - **H0:** There is no correlation between the labor participation rate and the employment rate.
 - **H1:** There is a correlation between the labor participation rate and the employment rate.
 
-Results: The Pearson correlation analysis showed no statistically significant correlation between labor participation rate and employment rate (Correlation Coefficient: 0.011, P-value: 0.759).
+Results: 
+
+| Statistic            | Value                         |
+|----------------------|-------------------------------|
+| Correlation Coefficient | 0.011                     |
+| P-value              | 0.759                         |
 
 #### Hypothesis 3: Variations in Employment Rates Across Different Regions (ANOVA Test)
 
 - **H0:** There are no significant differences in the average employment rates across different regions.
 - **H1:** There are significant differences in the average employment rates across different regions.
 
-Results: The ANOVA test indicated significant differences in employment rates across different regions (F-statistic: 58.23, P-value: $$3.21 \times 10^{-160}$$).
+Results: 
+
+| Statistic    | Value                              |
+|--------------|------------------------------------|
+| F-statistic  | 58.23                              |
+| P-value      | $$3.21 \times 10^{-160}$$          |
 
 ## Discussion and Interpretation
 
