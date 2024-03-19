@@ -4,6 +4,7 @@
 
 The project aims to analyze employment trends in India during the COVID-19 pandemic, focusing on how different regions and sectors have been affected. By examining employment rates across urban and rural areas and comparing data from pre-pandemic and pandemic periods, the study provides insights into the nuanced effects of the pandemic on the Indian labor market.
 ![Unemployment Analysis Screenshot](/Task%203%20Unemployment%20Analysis%20With%20Python/Unemployment_ScreenShot.png)
+
 ## Objectives
 
 1. **Analyze Employment Trends:** Examine changes in employment rates across India, highlighting differences between urban and rural areas to identify the most impacted regions.
@@ -34,4 +35,21 @@ Results: The t-test revealed a highly statistically significant difference in em
 
 Results: The Pearson correlation analysis showed no statistically significant correlation between labor participation rate and employment rate (Correlation Coefficient: 0.011, P-value: 0.759).
 
-#### Hypothesis 3: Variations in Employme
+#### Hypothesis 3: Variations in Employment Rates Across Different Regions (ANOVA Test)
+
+- **H0:** There are no significant differences in the average employment rates across different regions.
+- **H1:** There are significant differences in the average employment rates across different regions.
+
+Results: The ANOVA test indicated significant differences in employment rates across different regions (F-statistic: 58.23, P-value: $$3.21 \times 10^{-160}$$).
+
+## Discussion and Interpretation
+
+The section provides insights into the statistical analysis results, discussing observed differences in employment rates, correlation findings, and regional disparities, along with their implications.
+
+## Conclusion
+
+The conclusion summarizes key findings, recommendations, and future directions, emphasizing the importance of understanding employment dynamics during the pandemic and suggesting avenues for further research.
+
+---
+
+This README provides a structured overview of the project, outlining its objectives, methodology, findings, and implications in a clear and concise manner.
