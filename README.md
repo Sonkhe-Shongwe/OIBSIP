@@ -1,6 +1,6 @@
-# Oasis Infobyte - Data Science Intern Projects
+# Sonkhe Shongwe - Data Science Projects
 
-Welcome to the repository containing the projects completed during my Data Science Internship at Oasis Infobyte. Below is a brief overview of each project along with relevant details and links to the project files.
+Welcome to the repository containing my data science projects. Below is a brief overview of each project along with relevant details and links to the project files.
 
 ## Table of Contents
 
